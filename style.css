@@ -1,0 +1,412 @@
+.header{
+    background-color: #316dc3;
+    height: 120px;
+}
+
+.icons{
+    display: inline;
+    position: relative;
+    left: -15px;
+
+}
+.facebook{
+    display: inline-block;
+    padding: 5px;
+    margin-top: 20px;
+    border-radius: 10px;
+   size: 100px;
+}
+.facebook:hover{
+    background-color: #316dd9
+}
+
+.twitter{
+    display: inline-block;
+    padding: 5px;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+.twitter:hover{
+    background-color: #316dd9
+}
+.youtube{
+    display: inline-block;
+    padding: 5px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.youtube:hover{
+    background-color: #316dd9
+}
+.instagram{
+    display: inline-block;
+    padding: 5px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.instagram:hover{
+    background-color: #316dd9
+}
+.whatsapp{
+    display: inline-block;
+    padding: 5px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.whatsapp:hover{
+    background-color: #316dd9
+}
+.millions{
+    color: white;
+    display: inline;
+    position: relative;
+    bottom: 20px;
+    left: 10px;
+    font-family: Arial, Helvetica, sans-serif, Helvetica, sans-serif;
+}
+.ukdonor{
+    display: inline;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;    
+}
+
+.ukdonor:hover{
+    background-color: lightgray;
+}
+
+.donatenow{
+    display: inline;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+}
+.donatenow:hover{
+    background-color: lightgray; 
+}
+.smitresults{
+    display: inline;
+    padding: 10px; 
+    border-radius: 20px;
+    border: none;  
+}
+.smitresults:hover{
+    background-color: lightgray;
+}
+.navbar{
+    background-color:white;
+height: 120px;
+border: violet solid;
+}
+
+hr.fist{
+    border: 1px solid green;
+    border-radius: 5px;
+}
+button.home{
+    display: inline;
+    padding: 15px;
+    border-radius: 28px;
+    border: none;
+    background-color: #316dc3 ;
+    color:whitesmoke;
+    font-size: large;
+}
+.index{
+    color: white;
+}
+.buttons{
+    display: inline;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;   
+}
+.about{
+    border: none;
+    background-color:white;
+    display: inline;
+    padding: 15px;
+    font-size: large;
+}
+.about:hover{
+    display: inline;
+    padding: 15px;
+    border-radius: 28px;
+    border: none;
+    background-color: #316dc3 ;
+    color:whitesmoke;
+    font-size: large;
+}
+.news{
+    background-color: #316dc3 ;
+    font-size: x-large;
+    padding: 7px;
+    color: white;
+    border-radius: 5px;
+    font-family: sans-serif 
+}
+.intro{
+    display: inline;
+    font-size: 50px;
+    color: #316dc3;
+    font-family: serif;
+}
+.duction{
+    display: inline;
+    font-size: 50px;
+    color: rgb(59, 163, 59);
+}
+.p1{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: x-large;
+    padding: 15px;
+    margin: auto 50px;
+ 
+}
+.pdiv{
+    padding: 80px;
+}
+.bluebox{
+    background-color: rgb(37, 37, 209);
+}
+.food-div{
+    display: inline-block;
+    width: 20%;
+    color: white;
+    font-size: xx-large;
+    margin-top: 50px;
+}
+.family-div{
+    display: inline-block;
+    width: 20%;
+    color: white;
+    font-size: xx-large;
+    margin-top: 50px;
+ 
+}
+.monthly{
+    display: inline;
+    color: #00ff00;
+}
+.monthly1{
+    display: inline;
+    color: #00ff00;
+}
+
+.doctor-div{
+    display: inline-block;
+    width: 20%;
+    color: white;
+    font-size: xx-large;
+}
+.education-div{
+    display: inline-block;
+    width: 20%;
+    color: white;
+    font-size: xx-large;
+}
+.onlinesadqah{
+    width: 25%;
+    height: 30%;
+    font-size: x-large;
+    color:  #316dc3;
+    padding: 30px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    margin: 17px;
+    display: inline-block;
+    box-shadow: 0px 1px 20px 7px rgba(0, 0, 0, 0.16);
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+#welfare{
+    display: inline-block;
+    
+}
+.sadqawaladiv{
+    padding: 50px;
+
+}
+.onlinesadqah:hover{
+    background-color: rgb(243, 242, 242);
+}
+
+.missions{
+    color: #3c7bd3;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.hr2{
+    border: 2px solid green;
+    border-radius: 10px;
+    text-align: left;
+    margin-left: 0%;
+}
+.missionsdiv{
+    margin-left: 28px;
+}
+.hepatitis{
+    width: 28%;
+    height: 30%;
+    font-size: x-large;
+    color:  #316dc3;
+    padding: 30px;
+    padding-bottom: 35px;
+    padding-top: 35px;
+    margin: 17px;
+    display: inline-block;
+    border: 1px solid lightgray;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 100px;
+}
+.hepatitis:hover{
+    background-color: rgb(243, 242, 242);}
+
+    .hepa{
+        display: inline;
+        margin-left: 25px;
+    }
+
+
+.upcoming{
+        position: absolute;
+        left: 1015px;
+        top: 3619px;
+        width: 27%;
+        margin-left: -5px;
+        text-align: left;
+}
+
+.entry{
+    font-size: larger;
+    color: darkgray;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    padding-top: 10px;
+
+}
+.hepatitis{
+    margin-left: 6px;
+}
+
+
+.hamza{
+    padding-left: 27px;
+
+}
+.idiv{
+    padding-top: 150px;
+    
+}
+.footer{
+    background-color: #25272e;
+    
+}
+.headoffice{
+    color: white;
+    padding: 100px;
+    font-size: x-large;
+    display: inline-block;
+}
+.info{
+    padding: 5px;
+}
+.copyright{
+    background-color: #316dd9;
+    color: white;
+    padding: 10px; 
+}
+.copyright2{
+    margin-left: 110px;
+    font-size: larger;
+}
+.useful{
+    color: white;
+    /* display: inline-block; */
+    /* margin-bottom: 150px; */
+    position: absolute;
+    left: 700px;
+    top: 4800px;
+}
+.rashanpic{
+    padding: 2px;
+}
+.connect{
+    color: white;
+    position: absolute;
+    left: 1050px;
+    top: 4800px;
+}
+.icons1{
+    display: inline;
+    /* position: relative;
+    left: -5px; */
+
+}
+.facebook1{
+    display: inline-block;
+    /* padding: 2px; */
+    margin-top: 5px;
+    border-radius: 10px;
+   size: 100px;
+}
+.facebook1:hover{
+    background-color: #3e414c
+}
+
+.twitter1{
+    display: inline-block;
+    /* padding: 2px; */
+    margin-top: 5px;
+    border-radius: 10px;
+
+}
+.twitter1:hover{
+    background-color: #3e414c
+}
+.youtube1{
+    display: inline-block;
+    /* padding: 2px; */
+    margin-top: 5px;
+    border-radius: 10px;
+
+}
+.youtube1:hover{
+    background-color: #3e414c
+}
+.instagram1{
+    display: inline-block;
+    /* padding: -2px; */
+    margin-top: 5px;
+    border-radius: 10px;
+}
+.instagram1:hover{
+    background-color: #3e414c
+}
+
+
+.akhri{
+    position: relative;
+    bottom: 390px;
+    left: 990px;
+    width: 30%;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
